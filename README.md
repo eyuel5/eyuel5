@@ -1,6 +1,6 @@
 <samp>Hey, I'm <sub>[![Eyuel](https://img.shields.io/badge/Eyuel-1E1E2F?style=for-the-badge)](https://eyuel5.netlify.app).</sub>
-<br>A frontend developer from Ethiopia 🌍, 
-<br>passionate about crafting modern, responsive, and user-friendly web applications.</samp>
+<br>A frontend developer from Ethiopia 🌍. 
+<br>I enjoy building modern, responsive, and user-friendly web applications.</samp>
 
 🔭 <samp>Currently working on</samp> <code>React projects</code>  
 🌱 <samp>Expanding skills in</samp> <code>Next.js</code> <samp>&</samp> <code>modern frontend</code>  
